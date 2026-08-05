@@ -118,11 +118,7 @@ The supplementary reflection in `docs/cryptography-reflection/` discusses crypta
 - The implementation does not decrypt ciphertext, identify keys, or evaluate cipher security.
 - The source uses the exact output spelling `Nonsense`; this README documents observed behavior rather than changing it.
 
-## Source preservation
 
-All Python source files and supporting artifacts included from the upload are preserved byte-for-byte. No implementation, comments, identifiers, formatting, constants, or behavior were changed.
-
-The featured file was copied only to a clearer repository path. Alternate uploaded variants are retained under `development/` instead of being merged or rewritten. See `ORIGINAL_FILE_MANIFEST.tsv` for original paths, portfolio paths, file sizes, and SHA-256 hashes.
 
 ## Academic origin
 

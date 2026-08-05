@@ -1,0 +1,12 @@
+original_path	portfolio_path	category	size_bytes	sha256	byte_identical
+hw2/hw1_refined/hw1.py	src/hw1.py	featured source	6511	44c48172cd89097b139074bb6c244b230186881f5f67f589f336b48ceedb7659	true
+hw2/hw1_refined/words.txt	data/words.txt	featured dictionary	29	a27076c3ebccc8723d829e39c1afdace4c10feb8d2e9a97940c5d0aa871e7973	true
+hw2/hw1_refined/referenced/Written Report.docx	docs/technical-report/Written Report.docx	technical report	26155	3b6b80ec3540f67f4b7f51276f15baef6c084bca7d49fa58a3ce721dce314eea	true
+hw2/hw1_refined/referenced/Written Report.pdf	docs/technical-report/Written Report.pdf	technical report	114142	36084a61ab86d7a1491e247c5c15b5b974256f6143f9a1303fea598dd70b5eb5	true
+hw1/I do (not )like The Imitation Game.docx	docs/cryptography-reflection/I do (not )like The Imitation Game.docx	reflection	21008	1a27f4d30c28c720e78c148e81b70f7888913eaad4eae8c523ab5e39022de6b9	true
+hw1/I do (not) love The Imitation Game 蔡定宇 112006265.pdf	docs/cryptography-reflection/I do (not) love The Imitation Game 蔡定宇 112006265.pdf	reflection	60606	9bad1c3c7d98c19738fe0f9eaeb3d170bcf5b0f4d67019981e968411cf12637f	true
+hw2/hw1_refined/referenced/hw1.py	development/referenced-version/hw1.py	alternate source	7260	3945e37395c3011628a093e35dfcbb209203b30cbc92742543caaa2cd75784ae	true
+hw2/hw1_refined/referenced/words.txt	development/referenced-version/words.txt	alternate dictionary	29	a27076c3ebccc8723d829e39c1afdace4c10feb8d2e9a97940c5d0aa871e7973	true
+hw2/hw1_refined/referenced/emdash gae/hw1.py	development/ascii-compatible-version/hw1.py	alternate source	6989	b3f486a98a6152f3b370ba563c0bcee4fd7e910c4d9a9bf2b02db043aa53d485	true
+hw2/hw1_refined/referenced/emdash gae/words.txt	development/ascii-compatible-version/words.txt	alternate dictionary	29	a27076c3ebccc8723d829e39c1afdace4c10feb8d2e9a97940c5d0aa871e7973	true
+hw2/hw1_refined/referenced/emdash gae/Written Report.pdf	development/ascii-compatible-version/Written Report.pdf	alternate report	114062	9b03b6d054f4754138298f149636d38dd2b82d4817d1fc377cb1380bf3bef588	true
